@@ -1,0 +1,15 @@
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\bin\Debug\net8.0\TDD_ITV.exe
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\bin\Debug\net8.0\TDD_ITV.deps.json
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\bin\Debug\net8.0\TDD_ITV.runtimeconfig.json
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\bin\Debug\net8.0\TDD_ITV.dll
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\bin\Debug\net8.0\TDD_ITV.pdb
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\obj\Debug\net8.0\TDD_ITV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\obj\Debug\net8.0\TDD_ITV.AssemblyInfoInputs.cache
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\obj\Debug\net8.0\TDD_ITV.AssemblyInfo.cs
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\obj\Debug\net8.0\TDD_ITV.csproj.CoreCompileInputs.cache
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\obj\Debug\net8.0\TDD_ITV.sourcelink.json
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\obj\Debug\net8.0\TDD_ITV.dll
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\obj\Debug\net8.0\refint\TDD_ITV.dll
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\obj\Debug\net8.0\TDD_ITV.pdb
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\obj\Debug\net8.0\TDD_ITV.genruntimeconfig.cache
+C:\Users\toyot\Documents\programming\7.semester\TDD_ITV\TDD_ITV\obj\Debug\net8.0\ref\TDD_ITV.dll
