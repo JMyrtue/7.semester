@@ -1,22 +1,22 @@
-data Ency a = Node String a [Ency a]
-            deriving Show
+-- data Ency a = Node String a [Ency a]
+--             deriving Show
 
-test = Node("hej" 4)
+-- test = Node("hej" 4)
 
 
 
 -- Student solution:
--- data Encyclopedia a =  Node a [Encyclopedia a] deriving Show
+data Encyclopedia a =  Node String a [Encyclopedia a] deriving Show
 
--- t1 = Node("mango",True)
---     [
---         Node("dingo", False)
---             [Node("plip", True)[],
---             Node("ninka",False)[]],
---         Node("plop",True)[],
---         Node("plys", False)
---             [Node("boing",True)[]]
---     ]
+t1 = Node "mango" True 
+    [
+        Node "dingo" False
+            [Node "plip" True [],
+             Node "ninka" False []],
+        Node "plop" True [], 
+        Node "plys" False
+            [Node "boing" True []]
+    ]
 
 -- t2 = Node("plonk", 1)
 --     [
