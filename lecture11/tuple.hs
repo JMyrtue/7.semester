@@ -21,4 +21,4 @@ tuple' ma mb = do
 -- Definition of '>>=':
 ---- m a -> (a -> m b) -> m b
 
--- z >>= (\y -> s y >>= (\_ -> return (f y)))
+-- z >>= (\y -> s y >>= (\_ -> return (f y))) 
