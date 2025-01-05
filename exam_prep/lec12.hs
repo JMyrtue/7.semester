@@ -1,5 +1,22 @@
 import Parsing
 
+data Onion = Core Int | Layer Onion
+    deriving Show
+
+-- theonion :: Parser Onion
+theonion = do char 'L'
+              rest <- theonion
+              return (Layer rest)
+           <|> do n <- int
+                  return (Core n)
+
+
+ab = do char 'a'
+        mid <- ab
+        char 'b'
+        return ('a' : mid ++ "b")
+     <|> return ""
+        
 data Bexp = Or Bexp Bexp | And Bexp Bexp | Bexp
           | Neg Bexp
           | TT | FF | Paren Bexp
@@ -38,4 +55,3 @@ atom = do
         x <- boolexp
         symbol ")"
         return (Paren x)
-
